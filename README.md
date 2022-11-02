@@ -100,3 +100,9 @@ Add a `httpd.conf` file, listing the paths that should be protected and the corr
 ### Where can I find the documentation for BusyBox httpd?
 
 Read the [source code comments](https://git.busybox.net/busybox/tree/networking/httpd.c).
+
+### how to protect the docker?
+read (https://snyk.io/blog/10-docker-image-security-best-practices/).
+
+### learn docker in a few steps
+watch video (https://www.youtube.com/watch?v=gAkwW2tuIqE).
